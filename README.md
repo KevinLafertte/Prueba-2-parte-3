@@ -14,7 +14,7 @@
 
 -Se utilizó **.html()** para agregar texto una vez desapareciera pikachu.
 
--Se utilizó **-fadeIn()** Para hacer aparecer nuevo texto.
+-Se utilizó **.fadeIn()** Para hacer aparecer nuevo texto.
 
 -Se utilizó **.text()** para agregar texto nuevo al botón APRIETAME una vez precionado.
 
