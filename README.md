@@ -1,6 +1,6 @@
 # PRUEBA 2, TERCERA PARTE.
 
-**Animación de Pikachu mediante Jquery:**
+**ANIMACIÓN DE PIKACHU MEDIANTE JQUERY**
 
 **BOTÓN APRIETAME:**
 
