@@ -100,16 +100,16 @@ body{
 
 .ojo-izquierdo{
     position: absolute;
-    top:365px;
-    left:32%;
+    top:395px;
+    left:30%;
     transition: transform 20s;
 
 }
 
 .ojo-derecho{
     position: absolute;
-    top:363px;
-    left:50%;
+    top:390px;
+    left:52%;
     transition: transform 20s;
 
 }
