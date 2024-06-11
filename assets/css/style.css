@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('../img/wp10311755-pokemon-landscape-wallpapers.jpg');
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.botones{
+    position: absolute;
+    bottom: 30px;
+    left: 4%;
+    
+}
+
+.boton1{
+  margin-right: 200px;
+  padding: 10px 20px;
+  background-color: #780000;
+  color: #ffff;
+  border: 1px solid black;
+  border-radius: 5px;
+  font-size: 18px;
+}
+
+.boton1:hover{
+    background-color: red;
+    color: #ffff;
+}
+
+.boton1:active{
+    background-color: #FFFF00;
+    color: #3a86ff;
+}
+
+.boton2{
+    margin-left: 140px;
+    padding: 10px 20px;
+    background-color: #003049;
+    color: #ffff;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: 18px;
+
+  }
+
+ .boton2:hover{
+    background-color: blue;
+    color: #ffff;
+ }
+
+ .boton2:active{
+    background-color: #FFFF00;
+    color: #3a86ff;
+}
+  
+.cuerpo-pikachu{
+    position: relative;
+    z-index: 200;
+
+}
+
+.boca{
+    position: absolute;
+    top: 45%;
+    left: 36%;
+    transition: transform 0.1s;
+   
+}
+
+.brazo-derecho{
+    position: absolute;
+    top: 60%;
+    left: 52%;
+    transition: transform 0.5s;
+    
+}
+
+.brazo-izquierdo{
+    position: absolute;
+    top:60%;
+    left: 25%;
+    transition: transform 0.5s;
+
+}
+
+.cola{
+    position: absolute;
+    top:30%;
+    left:65%;
+ 
+}
+
+.ojo-izquierdo{
+    position: absolute;
+    top:365px;
+    left:32%;
+    transition: transform 20s;
+
+}
+
+.ojo-derecho{
+    position: absolute;
+    top:363px;
+    left:50%;
+    transition: transform 20s;
+
+}
+
+.mensaje-nuevo {
+    position: relative;
+    top: 300px;
+    font-family: "Tiny5", sans-serif;
+    font-size: 50px;
+    font-weight: 900;
+    color: #ffff;
+    
+}
