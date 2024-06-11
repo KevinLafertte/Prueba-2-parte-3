@@ -6,7 +6,7 @@
 
 -Se utilizó efecto **.animated()** para mover los brazos y boca de Pikachu.
 
--Se utilizó propiedad **.cs()** para cambiar posición de brazos y ojos mediante transform: ratate.
+-Se utilizó propiedad **.cs()** para cambiar posición de brazos y ojos mediante **transform: ratate** y **transition** (en hoja de estilos).
 
 **BOTÓN NO APRETAR:**
 
